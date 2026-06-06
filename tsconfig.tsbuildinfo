@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/types.ts","./src/vite-env.d.ts","./src/components/animatedphotocard.tsx","./src/components/controlpanel.tsx","./src/components/layoutswitcher.tsx","./src/components/musicplayer.tsx","./src/components/photocard.tsx","./src/components/scene.tsx","./src/data/musics.ts","./src/data/photos.ts"],"version":"5.9.3"}
