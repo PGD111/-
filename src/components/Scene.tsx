@@ -125,8 +125,8 @@ export default function Scene({ photos, autoRotate, onPhotoClick, layoutType }: 
       <OrbitControls
         enableDamping
         dampingFactor={0.05}
-        minDistance={5}
-        maxDistance={20}
+        minDistance={4}
+        maxDistance={30}
         autoRotate={autoRotate && !hoveredId}
         autoRotateSpeed={2}
       />

@@ -3,170 +3,177 @@ import { Photo } from '../types';
 export const photos: Photo[] = [
   {
     id: '1',
-    url: 'https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop',
-    title: '阿尔卑斯山脉',
-    description: '壮丽的雪山风光，令人叹为观止',
-    author: 'Alpine Photographer'
+    url: '/photos/015b61d92657315523786bc5cbe8a6cb.jpg',
+    title: '优秀干事颁奖',
+    description: '湘潭大学化学学院第二十五届团委、学生会总结大会',
+    author: '学习部'
   },
   {
     id: '2',
-    url: 'https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=800&h=600&fit=crop',
-    title: '森林小径',
-    description: '阳光透过树叶洒在小径上',
-    author: 'Nature Explorer'
+    url: '/photos/294dabadc099b2471973797b80b73afc.jpg',
+    title: '优秀部门',
+    description: '新媒体中心与学习部荣获优秀部门称号',
+    author: '学习部'
   },
   {
     id: '3',
-    url: 'https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?w=800&h=600&fit=crop',
-    title: '宁静湖泊',
-    description: '湖水如镜，倒映着天空',
-    author: 'Lake Watcher'
+    url: '/photos/2daa15b4f358fd1d7141d27b3ca671e4.jpg',
+    title: '总结大会合影',
+    description: '化学学院第二十五届团委、学生会全体成员',
+    author: '学习部'
   },
   {
     id: '4',
-    url: 'https://images.unsplash.com/photo-1433086966358-54859d0ed716?w=800&h=600&fit=crop',
-    title: '瀑布奇观',
-    description: '奔腾的水流从高处倾泻而下',
-    author: 'Waterfall Hunter'
+    url: '/photos/954c7e1bab8a54b7ce58965ade685dc3.jpg',
+    title: '学习部工作总结',
+    description: '汇报人正在进行工作总结汇报',
+    author: '学习部'
   },
   {
     id: '5',
-    url: 'https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800&h=600&fit=crop',
-    title: '海边日落',
-    description: '金色的阳光洒满海面',
-    author: 'Sunset Chaser'
+    url: '/photos/97b0ca8863581211ad8918b94ecc49ef.jpg',
+    title: '活动汇报',
+    description: '学习部活动时间安排展示',
+    author: '学习部'
   },
   {
     id: '6',
-    url: 'https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&h=600&fit=crop',
-    title: '雾中山林',
-    description: '神秘的雾气笼罩着群山',
-    author: 'Misty Wanderer'
+    url: '/photos/dsc_0195_4_.jpg',
+    title: '会议现场',
+    description: '副班长会议现场记录',
+    author: '学习部'
   },
   {
     id: '7',
-    url: 'https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&h=600&fit=crop',
-    title: '巍峨山峰',
-    description: '挑战极限，登顶巅峰',
-    author: 'Mountain Climber'
+    url: '/photos/dsc_0224_4_.jpg',
+    title: '团队合影',
+    description: '学习部成员集体留念',
+    author: '学习部'
   },
   {
     id: '8',
-    url: 'https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&h=600&fit=crop',
-    title: '秋日森林',
-    description: '金色的落叶铺满大地',
-    author: 'Autumn Lover'
+    url: '/photos/dsc_0227_4_.jpg',
+    title: '工作汇报',
+    description: '学习部工作成果展示',
+    author: '学习部'
   },
   {
     id: '9',
-    url: 'https://images.unsplash.com/photo-1472214103451-9374bd1c798e?w=800&h=600&fit=crop',
-    title: '草原风光',
-    description: '一望无际的绿色草原',
-    author: 'Prairie Photographer'
+    url: '/photos/dsc_0229_4_.jpg',
+    title: '颁奖典礼',
+    description: '优秀干事颁奖仪式',
+    author: '学习部'
   },
   {
     id: '10',
-    url: 'https://images.unsplash.com/photo-1465056836041-7f43ac27dcb5?w=800&h=600&fit=crop',
-    title: '沙漠之舟',
-    description: '骆驼在金色沙丘中穿行',
-    author: 'Desert Explorer'
+    url: '/photos/dsc_0232_4_.jpg',
+    title: '荣誉时刻',
+    description: '获奖同学合影留念',
+    author: '学习部'
   },
   {
     id: '11',
-    url: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=600&fit=crop',
-    title: '城市夜景',
-    description: '霓虹灯闪烁的都市夜景',
-    author: 'Urban Night'
+    url: '/photos/dsc_0263_4_.jpg',
+    title: '总结大会',
+    description: '化学学院团委学生会总结大会',
+    author: '学习部'
   },
   {
     id: '12',
-    url: 'https://images.unsplash.com/photo-1518837695005-2083093ee35b?w=800&h=600&fit=crop',
-    title: '海浪拍岸',
-    description: '波涛汹涌的大海',
-    author: 'Oceanographer'
+    url: '/photos/dsc_0267_4_.jpg',
+    title: '优秀部门领奖',
+    description: '新媒体中心与学习部代表领奖',
+    author: '学习部'
   },
   {
     id: '13',
-    url: 'https://images.unsplash.com/photo-1475924156734-496f6cac6ec1?w=800&h=600&fit=crop',
-    title: '极光奇观',
-    description: '北极光在夜空中舞动',
-    author: 'Aurora Hunter'
+    url: '/photos/dsc_0274_7_.jpg',
+    title: '学习部风采',
+    description: '学习部成员展示',
+    author: '学习部'
   },
   {
     id: '14',
-    url: 'https://images.unsplash.com/photo-1426604966848-d7adac402bff?w=800&h=600&fit=crop',
-    title: '春日花海',
-    description: '五彩缤纷的花朵盛开',
-    author: 'Flower Enthusiast'
+    url: '/photos/_DSC0933.jpg',
+    title: '会议记录',
+    description: '部门会议现场',
+    author: '学习部'
   },
   {
     id: '15',
-    url: 'https://images.unsplash.com/photo-1483728642387-6c3bdd6c93e5?w=800&h=600&fit=crop',
-    title: '峡谷奇观',
-    description: '大自然的鬼斧神工',
-    author: 'Canyon Explorer'
+    url: '/photos/_DSC0940.jpg',
+    title: '活动现场',
+    description: '学习部组织的活动',
+    author: '学习部'
   },
   {
     id: '16',
-    url: 'https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?w=800&h=600&fit=crop',
-    title: '星空露营',
-    description: '在星空下享受宁静',
-    author: 'Star Gazer'
+    url: '/photos/_DSC1024.jpg',
+    title: '干事风采',
+    description: '学习部干事工作照',
+    author: '学习部'
   },
   {
     id: '17',
-    url: 'https://images.unsplash.com/photo-1461896836934-ffe607ba821?w=800&h=600&fit=crop',
-    title: '雪山湖泊',
-    description: '雪山倒映在湖水中',
-    author: 'Alpine Lake'
+    url: '/photos/_DSC1033.jpg',
+    title: '工作总结',
+    description: '学期工作总结汇报',
+    author: '学习部'
   },
   {
     id: '18',
-    url: 'https://images.unsplash.com/photo-1486870591958-9b9d0d1dda99?w=800&h=600&fit=crop',
-    title: '热带天堂',
-    description: '棕榈树和碧海蓝天',
-    author: 'Tropical Traveller'
+    url: '/photos/_DSC1097.jpg',
+    title: '团队协作',
+    description: '学习部团队合作',
+    author: '学习部'
   },
   {
     id: '19',
-    url: 'https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=800&h=600&fit=crop',
-    title: '火山喷发',
-    description: '大自然的力量展示',
-    author: 'Volcano Watcher'
+    url: '/photos/_DSC1465.jpg',
+    title: '活动留念',
+    description: '部门活动合影',
+    author: '学习部'
   },
   {
     id: '20',
-    url: 'https://images.unsplash.com/photo-1439066615861-d1af74d74000?w=800&h=600&fit=crop',
-    title: '竹林秘境',
-    description: '幽静的竹林深处',
-    author: 'Zen Photographer'
+    url: '/photos/_DSC1474.jpg',
+    title: '工作瞬间',
+    description: '日常工作记录',
+    author: '学习部'
   },
   {
     id: '21',
-    url: 'https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=800&h=600&fit=crop',
-    title: '古老城堡',
-    description: '历史的印记',
-    author: 'Castle Hunter'
+    url: '/photos/_DSC1481.jpg',
+    title: '会议讨论',
+    description: '部门会议讨论',
+    author: '学习部'
   },
   {
     id: '22',
-    url: 'https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=800&h=600&fit=crop',
-    title: '樱花飘落',
-    description: '浪漫的樱花季节',
-    author: 'Sakura Lover'
+    url: '/photos/_DSC1488.jpg',
+    title: '成果展示',
+    description: '学期成果展示',
+    author: '学习部'
   },
   {
     id: '23',
-    url: 'https://images.unsplash.com/photo-1504893524553-b855bce32c67?w=800&h=600&fit=crop',
-    title: '田园风光',
-    description: '宁静的乡村生活',
-    author: 'Countryside Photographer'
+    url: '/photos/_DSC1493.jpg',
+    title: '年终总结',
+    description: '年度工作总结大会',
+    author: '学习部'
   },
   {
     id: '24',
-    url: 'https://images.unsplash.com/photo-1490750967868-88aa4486c946?w=800&h=600&fit=crop',
-    title: '花园小径',
-    description: '花香满径',
-    author: 'Garden Explorer'
+    url: '/photos/_DSC8415.jpg',
+    title: '部门团建',
+    description: '学习部团建活动',
+    author: '学习部'
+  },
+  {
+    id: '25',
+    url: '/photos/eaa6229e7a9b059ee0cff8350c073604.jpg',
+    title: '表彰大会',
+    description: '优秀干事表彰大会',
+    author: '学习部'
   }
 ];
